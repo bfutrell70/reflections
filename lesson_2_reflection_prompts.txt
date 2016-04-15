@@ -11,6 +11,8 @@ to pick and choose what to commit instead of all files.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+A) Only the files needed for the logical change can be added to staging.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
