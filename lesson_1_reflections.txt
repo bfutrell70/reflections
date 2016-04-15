@@ -1,0 +1,22 @@
+reflections for lesson 1
+
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+A: It only showed differences between the two files, making it easier to locate the issue.
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A: It would make it easier to see how something was done in the past.  
+
+
+Q: How might version control make you more confident to make changes that 
+could break something?
+A: If you commit changes on a working copy before making a change that
+breaks the program, you can change the code back to the commit that works.
+
+Q) Now that you have your workspace set up, what do you want to try
+using Git for?
+A) I want to be able to have code that I mess with in a common place
+to make it easier to keep track of it between computers.  Also
+want to be able to use version control in my projects.
+
