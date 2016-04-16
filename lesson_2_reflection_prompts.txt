@@ -22,6 +22,9 @@ branch with their own history.
 
 How do the diagrams help you visualize the branch structure?
 
+A) gives a representation of how the branches relate to each other.
+Also shows where branches separated from the master branch.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
