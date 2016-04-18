@@ -58,4 +58,9 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You would make changes in a separate branch if you wanted the maintainer of
+    the master branch to review the changes before merging. It prevents changing
+    the master branch without the maintainer's knowledge.
+    While updating master may seem like the easier thing to do it may make things
+    more difficult.  Branching before making changes to what would be in the
+    master gives others a chance to see what would be affected.
