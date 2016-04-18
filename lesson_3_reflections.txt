@@ -48,7 +48,12 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    There's sneakernet, other version control software and using a network file
+    share.
+    To me Github would be easier since it keeps track of changes and conflicts.
+    With the other options the collaborators would still need to keep track
+    of changes and conflicts.
+
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
