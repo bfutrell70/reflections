@@ -39,7 +39,11 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    To make it easier to work with the remote if you are off-line.
+    To make it easier to merge changes if changes were made on this machine
+    that are not on the remote and changes were made on the remote that are
+    not on this machine.  That would be if changes were made on another computer
+    and pushed or changes were made directly on GitHub.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
